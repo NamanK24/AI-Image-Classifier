@@ -10,8 +10,6 @@ making it both educational and fun to use.
 
 ## Features
 
-Certainly! Here's a list of the key features of the AI Image Classifier project:
-
 1. Real-time Webcam Integration:
    - Live video feed display
    - Instant image capture for training and classification
@@ -56,8 +54,6 @@ Certainly! Here's a list of the key features of the AI Image Classifier project:
 
 
 ## Technologies Used
-
-Certainly! Here's a list of the key technologies used in the AI Image Classifier project:
 
 1. Programming Language:
    - Python 3.8.10
